@@ -1,6 +1,8 @@
 # Comparator Dual Lick Detector
 Mouse lick detector 
 
+https://doi.org/10.25378/janelia.29685659
+
 Summary
 
 Lick sensors can be important tools in determining licking and drinking behavior of rodents during behavioral and neuroscience research. Commercially available lick sensors generally utilize either electrical, optical or force sensors in measuring licking and drinking behavior. A common problem with commercially available lick sensors is the production of significant electrical artifacts during recording of neural signals.
